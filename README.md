@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afonsolopez
 - 🍻 I’m currently working for Ab-InBev
-- 🖱️ I’m also running my own digital product agency [diasAgency](http://dias.agency/)
-- 📫 How to reach my agency: [hello@dias.agency](hello@dias.agency)
+- 🖱️ I’m also running my own digital product agency [Doc. in a Shell](https://docinashell.com/)
+- 📫 How to reach my agency: [hello@docinashell.com](hello@docinashell.com)
 - 💞️ I’m looking to collaborate on UX and produtivity projects
 
 
